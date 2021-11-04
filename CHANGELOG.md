@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.18.0](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-all-v1.17.1...sdk-codegen-all-v1.18.0) (2021-11-04)
+
+
+### Features
+
+* Add JPN agenda.ts and add yarn command in readme.md for hackathon app ([#889](https://www.github.com/looker-open-source/sdk-codegen/issues/889)) ([16528bc](https://www.github.com/looker-open-source/sdk-codegen/commit/16528bc245f6e447be3d862a4a0115a50aa1a16a))
+* create @looker/extension-utils ([#886](https://www.github.com/looker-open-source/sdk-codegen/issues/886)) ([9d1720d](https://www.github.com/looker-open-source/sdk-codegen/commit/9d1720d9a4cec00c45195dd9c716d9a2a929264f))
+* enforce required body parameters for RunIt ([#883](https://www.github.com/looker-open-source/sdk-codegen/issues/883)) ([a4dfb3c](https://www.github.com/looker-open-source/sdk-codegen/commit/a4dfb3cd318de65f78f89df5b55e9daf61c42826))
+* judging view for Hackathon app ([#891](https://www.github.com/looker-open-source/sdk-codegen/issues/891)) ([ff9f9f6](https://www.github.com/looker-open-source/sdk-codegen/commit/ff9f9f6240b54abf0a295bead5317489658ec068))
+* markdown, link click support, and project view for hackathon projects ([#877](https://www.github.com/looker-open-source/sdk-codegen/issues/877)) ([c55b221](https://www.github.com/looker-open-source/sdk-codegen/commit/c55b22101f3be2b8f172841dc3964dcc18825e47))
+* Python SDK Example: Gsheet / Cloud Functions  / Looker SDK integration ([#874](https://www.github.com/looker-open-source/sdk-codegen/issues/874)) ([0ec156a](https://www.github.com/looker-open-source/sdk-codegen/commit/0ec156a210e7aa1e23bc33bbc3555ba90e166332))
+
+
+### Bug Fixes
+
+* Add hackathon resources and refactor to use enums ([#887](https://www.github.com/looker-open-source/sdk-codegen/issues/887)) ([59faaab](https://www.github.com/looker-open-source/sdk-codegen/commit/59faaaba3875c60c88bb1aa7adea2ef16a94705c))
+* api explorer initialization  ([#885](https://www.github.com/looker-open-source/sdk-codegen/issues/885)) ([b08b08e](https://www.github.com/looker-open-source/sdk-codegen/commit/b08b08e9767725e19a573bac0385320bb903490d))
+* Hackathon styling and resource update ([#884](https://www.github.com/looker-open-source/sdk-codegen/issues/884)) ([7e07abb](https://www.github.com/looker-open-source/sdk-codegen/commit/7e07abb46213b9c7fd3170f1d75788a621e6bbd8))
+* optimize scripts for parallel startup of Looker docker image ([#881](https://www.github.com/looker-open-source/sdk-codegen/issues/881)) ([5624c72](https://www.github.com/looker-open-source/sdk-codegen/commit/5624c72e3e65159bd8ae306c3eca4176ebee3675))
+* show a helpful message when sdk call syntax generation fails ([#879](https://www.github.com/looker-open-source/sdk-codegen/issues/879)) ([1e9348b](https://www.github.com/looker-open-source/sdk-codegen/commit/1e9348b797c2f3760d03c1f94c60f18e534e8298))
+
 ### [1.17.1](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-all-v1.17.0...sdk-codegen-all-v1.17.1) (2021-10-27)
 
 

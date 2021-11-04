@@ -1,5 +1,34 @@
 # Changelog
 
+## [21.19.0](https://www.github.com/looker-open-source/sdk-codegen/compare/hackathon-v21.18.1...hackathon-v21.19.0) (2021-11-04)
+
+
+### Features
+
+* Add JPN agenda.ts and add yarn command in readme.md for hackathon app ([#889](https://www.github.com/looker-open-source/sdk-codegen/issues/889)) ([16528bc](https://www.github.com/looker-open-source/sdk-codegen/commit/16528bc245f6e447be3d862a4a0115a50aa1a16a))
+* create @looker/extension-utils ([#886](https://www.github.com/looker-open-source/sdk-codegen/issues/886)) ([9d1720d](https://www.github.com/looker-open-source/sdk-codegen/commit/9d1720d9a4cec00c45195dd9c716d9a2a929264f))
+* judging view for Hackathon app ([#891](https://www.github.com/looker-open-source/sdk-codegen/issues/891)) ([ff9f9f6](https://www.github.com/looker-open-source/sdk-codegen/commit/ff9f9f6240b54abf0a295bead5317489658ec068))
+* markdown, link click support, and project view for hackathon projects ([#877](https://www.github.com/looker-open-source/sdk-codegen/issues/877)) ([c55b221](https://www.github.com/looker-open-source/sdk-codegen/commit/c55b22101f3be2b8f172841dc3964dcc18825e47))
+
+
+### Bug Fixes
+
+* Add hackathon resources and refactor to use enums ([#887](https://www.github.com/looker-open-source/sdk-codegen/issues/887)) ([59faaab](https://www.github.com/looker-open-source/sdk-codegen/commit/59faaaba3875c60c88bb1aa7adea2ef16a94705c))
+* Hackathon styling and resource update ([#884](https://www.github.com/looker-open-source/sdk-codegen/issues/884)) ([7e07abb](https://www.github.com/looker-open-source/sdk-codegen/commit/7e07abb46213b9c7fd3170f1d75788a621e6bbd8))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @looker/extension-utils bumped from ^0.1.0 to ^0.1.1
+    * @looker/sdk bumped from ^21.18.1 to ^21.19.0
+    * @looker/sdk-rtl bumped from ^21.1.1 to ^21.2.0
+    * @looker/code-editor bumped from ^0.1.13 to ^0.1.14
+    * @looker/wholly-sheet bumped from ^0.5.19 to ^0.5.20
+    * @looker/extension-sdk bumped from ^21.18.1 to ^21.19.0
+    * @looker/extension-sdk-react bumped from ^21.18.1 to ^21.19.0
+
 ### [21.18.1](https://www.github.com/looker-open-source/sdk-codegen/compare/hackathon-v21.18.0...hackathon-v21.18.1) (2021-10-27)
 
 
